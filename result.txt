@@ -1,0 +1,7 @@
+Here is my result = ${first} 
+ 
+ ${second}Here is my result = Hi............
+This is fst file 
+ 
+ Hello..........
+This is second file
